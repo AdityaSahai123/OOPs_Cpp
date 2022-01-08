@@ -10,3 +10,9 @@ Practical-7
 Practical-8
 Practical-9
 Practical-10
+Practical-11
+Practical-12
+Practical-13
+Practical-14
+Practical-15
+Practical-16
